@@ -19,3 +19,5 @@ error: baked_fluent: .ftl source files have errors
   |
 4 |     #[path("../../../baked_fluent/tests/ui/i18n-syntax-err")]
   |            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+error: could not compile `baked_fluent-tests`

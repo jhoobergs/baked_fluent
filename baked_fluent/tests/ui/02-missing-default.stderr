@@ -3,3 +3,5 @@ error: baked_fluent: no translations for default locale "xy_ZW" (have: ["en_US",
   |
 5 |     #[default_locale("xy_ZW")]
   |                      ^^^^^^^
+
+error: could not compile `baked_fluent-tests`

@@ -3,3 +3,5 @@ error: unexpected attribute `invalid_thing` (allowed: path, default_locale)
   |
 6 |     #[invalid_thing("banana")]
   |       ^^^^^^^^^^^^^
+
+error: could not compile `baked_fluent-tests`
